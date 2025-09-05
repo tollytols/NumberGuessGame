@@ -1,0 +1,7 @@
+version: "3.8"
+services:
+  app:
+    image: numberguessgame:latest
+    container_name: numberguess
+    ports:
+      - "8080:8080"
