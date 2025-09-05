@@ -1,0 +1,11 @@
+<web-app>
+  <servlet>
+    <servlet-name>NumberGuessServlet</servlet-name>
+    <servlet-class>com.studentapp.NumberGuessServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>NumberGuessServlet</servlet-name>
+    <url-pattern>/NumberGuessServlet</url-pattern>
+  </servlet-mapping>
+</web-app>
+
