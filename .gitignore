@@ -1,0 +1,36 @@
+# Maven build output
+/target/
+*.war
+*.ear
+*.jar
+
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# Backup files
+*~
+*.swp
+
+# Environment / credentials (if any)
+*.env
